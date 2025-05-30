@@ -1,0 +1,1 @@
+- [SVM и логистическая регрессия](https://colab.research.google.com/drive/1idhz84E8cofOaQ7K1T29rUaiMTAfC28e) - реализация методов классификации
