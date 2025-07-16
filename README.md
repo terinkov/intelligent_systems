@@ -25,6 +25,7 @@
 ### 2. Deep Learning
 - [Convolutional_NN.ipynb](Deep%20Learning/Convolutional_NN.ipynb) [[Colab]](https://colab.research.google.com/drive/1R5s5xeqbXNfRUCQTm4ywtE6uvxu5SiRj#scrollTo=VRUsuZR2cQoY) - Pytorch свёрточные нейронные сети на датасете CIFAR10 с аугментацией
 - [Fully_connected_networks.ipynb](Deep%20Learning/Fully_connected_networks.ipynb) [[Colab]](https://colab.research.google.com/drive/17VTfmdkMblmEJ_r5bMr6y1tG_ga4CY5W?authuser=1) - Pytorch полносвязные нейронные сети
+- [RNN.ipynb](Deep%20Learning/RNN.ipynb) [[Colab]](https://colab.research.google.com/drive/1ClM6J4NDJUA75PsjxxTvyHRUqqmRIhjm?usp=sharing) - Pytorch модели RNN, LSTM для классификации тестов по набору тегов
 
 ### 3. Kaggle Competitions
 - [Линейная_регрессия_NewYork_Taxi_соревнование_Kaggle.ipynb](Kaggle_competitions/Линейная_регрессия__NewYork_Taxi__соревнование_Kaggle.ipynb) [[Colab]](https://colab.research.google.com/drive/1idhz84E8cofOaQ7K1T29rUaiMTAfC28e) - решение Kaggle-соревнования по предсказанию стоимости поездок на такси в Нью-Йорке (Scikit-learn, Folium) - решено с помощью Линейной регрессии
